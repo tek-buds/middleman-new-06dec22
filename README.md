@@ -17,3 +17,4 @@ To get started with Middleman for deployment with Vercel, you can use the [Middl
 ```shell
 $ middleman init project-name
 ```
+### Testing for disabling of preview comments based on change of environment variable value
